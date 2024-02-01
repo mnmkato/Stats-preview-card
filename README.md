@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./mnmkato.github.io_Stats-preview-card_.png)
+![](./mnmkato.github.io_Stats-preview-card_2.png)
 
 ### Links
 
